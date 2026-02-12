@@ -5,5 +5,5 @@ test('suma 2 + 3 = 5', () => {
 });
 
 test('mutl 5 * 4 = 20', () => {
-    expect(mult(5,4)).toBe(5);
+    expect(mult(5,4)).toBe(20);
 });
